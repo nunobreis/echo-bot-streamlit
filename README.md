@@ -9,3 +9,9 @@ Serves as a boilerplate to later add an OpenAI connection so that we can create 
 ```cli
 pip install requirements.txt
 ```
+
+## Running the project
+
+```cli
+streamlit run main.py
+```
